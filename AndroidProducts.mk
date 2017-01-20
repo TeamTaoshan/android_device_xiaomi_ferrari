@@ -15,3 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_ferrari.mk
+    $(LOCAL_DIR)/omni_ferrari.mk
